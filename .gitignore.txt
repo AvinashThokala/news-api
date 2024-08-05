@@ -19,3 +19,6 @@ dist/
 
 # Temporary files
 *.swp
+
+# Add the following line to .gitignore
+react-news-api-431523-0d915004c0f3.json
